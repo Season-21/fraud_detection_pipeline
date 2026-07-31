@@ -73,4 +73,4 @@ The notebook demonstrates the end-to-end fraud detection workflow, including pre
 
 ## Author
 
-**Sijan Chhetri**
+**Shijan Budhathokii**
